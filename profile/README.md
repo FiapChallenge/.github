@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="../logo2.jpg" alt="exemplo imagem" width=500>
+<img src="logo2.jpg" alt="exemplo imagem" width=500>
 </p>
 
 <details open>
