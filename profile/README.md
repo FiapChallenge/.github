@@ -21,6 +21,7 @@
 |__Faculdade__| FIAP |
 |__Campus__| Aclimação |
 |__Turma__| 1TDSS |
+|__Período__| Noturno |
 
 <h2 name="autores">✍️ Integrantes</h2>
 <table>
