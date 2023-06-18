@@ -16,7 +16,7 @@
 
 <h2 name="sobre">📖 Sobre a Organização</h2>
 
-|__ORGANIZAÇÃO__| |
+|__ORGANIZAÇÃO__| FiapChallenge |
 |---|---|
 |__Faculdade__| FIAP |
 |__Campus__| Aclimação |
